@@ -49,6 +49,7 @@ resume/
 │   ├── layout.tsx      # Layout principal
 │   ├── page.tsx        # Page d'accueil
 │   └── globals.css     # Styles globaux
+│   └── sitemap.ts      # Sitemap
 ├── components/
 │   ├── Header.tsx      # En-tête avec photo et infos
 │   ├── About.tsx       # Section À propos
@@ -60,6 +61,7 @@ resume/
 ├── lib/
 │   ├── data.ts         # Données du CV (FR/EN)
 │   └── i18n.tsx        # Configuration i18n
+│   └── config.ts       # Configuration
 └── public/
     └── images/
         └── profile.jpg # Photo de profil
